@@ -1,5 +1,5 @@
 {
-  "Author": "Zubayer",
+  "Author": "tuhin",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -17,15 +17,15 @@
 
   "ADMINBOT": [
     "61551746675104",
-    "61586663640809",
-    "100044713412032"
+    "61551746675104",
+    "61551746675104"
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["61551746675104"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
 
-  "APPSTATEPATH": "appstate.json",
+  "APPSTATEPATH": "jubaer.json",
   "DATABASE": {
     "sqlite": { "storage": "data.sqlite" }
   },
